@@ -1,0 +1,14 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< clinic.programmming:maven_start >-------------------
+[INFO] Building maven_start 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven_start ---
+[INFO] clinic.programmming:maven_start:jar:1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.647 s
+[INFO] Finished at: 2021-06-18T14:04:05+05:30
+[INFO] ------------------------------------------------------------------------
